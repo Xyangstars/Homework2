@@ -1,0 +1,30 @@
+body{
+    background-image: Url('Grassland.png');
+    background-repeat: no-repeat;
+    background-size: 35cm;
+}
+
+div{
+    display: grid;
+    justify-content: center;
+}
+
+
+
+
+button{
+    height: 20PX;
+    width: 90px;
+    margin: 10px;
+   
+}
+
+#g{
+    position: absolute;
+    height: 9cm;
+}
+
+#message_box{
+    padding: 25px 5px 10px 300px;
+    background-color: rgb(0, 89, 255);
+}
