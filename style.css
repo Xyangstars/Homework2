@@ -9,19 +9,33 @@ div{
     justify-content: center;
 }
 
-
+table{
+   height: 2cm;
+   
+}
 
 
 button{
     height: 20PX;
     width: 90px;
-    margin: 10px;
+    margin: 70px;
+    position: 10px;
+    
    
+}
+
+div #b{
+    position: absolute;
+    height: 7cm;
+    transform: translate(20cm, 2cm);
 }
 
 #g{
     position: absolute;
-    height: 9cm;
+    height: 10cm;
+   
+   
+    
 }
 
 #message_box{
